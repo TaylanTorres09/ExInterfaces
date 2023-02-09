@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Projetos\ExInterface\.metadata\.plugins\org.eclipse.jdt.core
+2671185164.index
+1922345678.index
