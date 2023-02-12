@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="model.entities.Invoice"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="model.entities.CarRental"/>
     <fullyQualifiedTypeName name="model.entities.Vehicle"/>
+    <fullyQualifiedTypeName name="model.services.TaxService"/>
+    <fullyQualifiedTypeName name="model.entities.CarRental"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="model.entities.Invoice"/>
+    <fullyQualifiedTypeName name="model.services.RentalService"/>
     <fullyQualifiedTypeName name="model.services.BrazilTaxService"/>
 </qualifiedTypeNameHistroy>
