@@ -10,4 +10,6 @@
 .plugins/org.eclipse.ui.workbench/workingsets.xml
 .plugins/org.eclipse.team.cvs.core
 .metadata/
-/.settings
+.settings
+.project
+.classpath
