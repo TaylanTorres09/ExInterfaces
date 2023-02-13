@@ -12,4 +12,9 @@
     <fullyQualifiedTypeName name="model.entities.Invoice"/>
     <fullyQualifiedTypeName name="model.services.RentalService"/>
     <fullyQualifiedTypeName name="model.services.BrazilTaxService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="model.entities.Installment"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="model.services.OnlinePaymentService"/>
 </qualifiedTypeNameHistroy>
